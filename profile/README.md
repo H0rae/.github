@@ -11,8 +11,8 @@
 [Live : webapp.horae.watch](https://webapp.horae.watch/)  
 
 ### ⚙️ API  
-WebApp is currently hosted on Vercel.  
-✅ [Direct link](https://github.com/H0rae/Horae_API)   
+✅ WebApp is currently hosted on Vercel.  
+[Direct link](https://github.com/H0rae/Horae_API)   
 
 ### 📊 Indexer  
 ✅ Indexer is currently hosted on an AWS EC2 instance.  
