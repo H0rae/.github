@@ -25,7 +25,10 @@
 ### 📱 Mobile App  
 🔜 Currently in developpment.  
 [Direct Link](https://github.com/H0rae/Horae_MobileApp)  
-
+  
+## 📕 Documentation  
+Full documentation is available on gitbook.  
+🔜 Currently private
 
 
 
