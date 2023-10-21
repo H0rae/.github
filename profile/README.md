@@ -37,13 +37,16 @@ This API does not use SIWE.
 ✅ Smart contracts are currently deployed on Polygon Mumbai (testnet)  
 [Repo link](https://github.com/H0rae/Horae_Smart_Contracts)  
 
+
 ## 📱 Mobile App  
 🔜 Currently in developpment.  
 [Repo Link](https://github.com/H0rae/Horae_MobileApp)  
   
 ## 📕 Documentation  
 Full documentation is available on gitbook.  
-🔜 Currently private
-
+🔜 Currently private  
+  
+# 💻 Service Status  
+[Live status]( https://horae.cronitorstatus.com/)
 
 
